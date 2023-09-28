@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/hello": {
+      "name": "/hello",
+      "lambdaFunction": "amplifynode59cfe8fb",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
